@@ -1,4 +1,4 @@
-# IMPLEMENTATION_PLAN.md — Plan de implementación
+# POSNEX Mobile — Plan de implementación
 
 ### 1.1. Pasos de trabajo
 

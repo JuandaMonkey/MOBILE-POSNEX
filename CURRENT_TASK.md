@@ -1,4 +1,4 @@
-# CURRENT_TASK.md — Tarea actual
+# POSNEX Mobile — Tarea actual
 
 ### 1.1. Historia de usuario
 

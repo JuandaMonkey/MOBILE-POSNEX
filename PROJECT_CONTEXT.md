@@ -1,4 +1,4 @@
-# PROJECT_CONTEXT.md — Contexto del proyecto
+# POSNEX Mobile — Contexto del proyecto
 
 Este documento organiza el trabajo del siguiente incremento de POSNEX. La meta es que una persona pueda usar el sistema desde su celular para registrarse, iniciar sesión y dar de alta su negocio. Se separa lo que ya se decidió, lo que debemos revisar en el código y lo que todavía no vamos a desarrollar.
 

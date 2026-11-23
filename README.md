@@ -63,7 +63,7 @@ La dirección base de la API debe configurarse mediante el mecanismo de configur
 Clonar el repositorio:
 
 ```bash
-git clone URL_DEL_REPOSITORIO
+git clone https://github.com/JuandaMonkey/MOBILE-POSNEX.git
 ```
 
 Ingresar al directorio del proyecto:

@@ -27,4 +27,4 @@ Para el seguimiento, cada tarea debe tener estado pendiente, en proceso, en revi
 
 ### 1.4. Definición de terminado
 
-El incremento estará terminado cuando se hayan probado los diez criterios de aceptación, un negocio pueda crearse y consultarse desde la aplicación Flutter, no sea visible para usuarios ajenos, los cambios aparezcan en Git y otra persona pueda repetir la prueba siguiendo el README. Cualquier función no verificada deberá permanecer marcada como pendiente.
+El incremento estará terminado cuando se hayan probado los diez criterios de aceptación, un negocio pueda crearse y consultarse desde una vista móvil, no sea visible para usuarios ajenos, los cambios aparezcan en Git y otra persona pueda repetir la prueba siguiendo el README. Cualquier función no verificada deberá permanecer marcada como pendiente.

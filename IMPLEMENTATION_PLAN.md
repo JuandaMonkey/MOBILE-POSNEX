@@ -16,7 +16,7 @@
 
 El paso 1 va primero porque todavía debemos confirmar las rutas y los campos reales. Los pasos 2 y 3 pueden avanzar juntos una vez conocidos los contratos. La prueba de persistencia depende del alta de negocio; la prueba de permisos se hace después de que existan dos cuentas válidas. Las correcciones se registrarán antes de cerrar el incremento.
 
-Para el seguimiento, cada tarea debe tener estado pendiente, en proceso, en revisión o terminada, nombre de quien la atiende y evidencia del resultado. No se asignan fechas o responsables ficticios en este documento; el equipo los registrará en su tablero de trabajo.
+Para el seguimiento, cada tarea debe tener estado pendiente, en proceso, en revisión o terminada, nombre de quien la atiende y evidencia del resultado. No se asignan fechas o responsables en este documento; el equipo los registrará en su tablero de trabajo.
 
 ### 1.3. Riesgos y respuesta
 

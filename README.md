@@ -8,16 +8,32 @@ La aplicación se comunica con POSNEX API, desarrollada en ASP.NET Core, mediant
 
 | Tecnología | Descripción |
 |---|---|
+| Flutter | Framework para desarrollo de aplicaciones móviles multiplataforma. |
+| Dart | Lenguaje de programación utilizado por Flutter. |
+| ASP.NET Core | Tecnología utilizada para los servicios del backend. |
+| PostgreSQL | Sistema de gestión de base de datos utilizado por el backend. |
+| REST API | Mecanismo de comunicación entre la aplicación móvil y el backend. |
+
+Las versiones exactas de Flutter, Dart y los paquetes utilizados se deben consultar en el entorno de desarrollo y en los archivos `pubspec.yaml` y `pubspec.lock`.
 
 ## Requisitos de desarrollo
 
 Para ejecutar el proyecto se requiere:
 
-- 
+- Flutter SDK.
+- Dart SDK (incluido con Flutter).
+- Android Studio.
+- Android SDK.
+- Emulador Android o dispositivo físico.
+- Visual Studio Code o Android Studio como entorno de desarrollo.
+- Acceso a POSNEX API.
 
 Para comprobar la instalación:
 
-```
+```bash
+flutter --version
+dart --version
+flutter doctor -v
 ```
 
 ## Configuración del backend
@@ -47,7 +63,7 @@ La dirección base de la API debe configurarse mediante el mecanismo de configur
 Clonar el repositorio:
 
 ```bash
-git clone https://github.com/JuandaMonkey/MOBILE-POSNEX.git
+git clone URL_DEL_REPOSITORIO
 ```
 
 Ingresar al directorio del proyecto:
@@ -182,6 +198,8 @@ Se recomienda validar:
 
 ## Repositorios relacionados
 
+- **Backend:** [BACK-END-POSNEX](https://github.com/carlosmelendrez31/BACK-END-POSNEX)
+- **Frontend móvil:** [MOBILE-POSNEX](https://github.com/JuandaMonkey/MOVIL-POSNEX)
 
 ## Estado del proyecto
 
